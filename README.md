@@ -48,7 +48,7 @@ Microsoft Excel: Power Query, Power Pivot (Data Model + DAX measures), Pivot Tab
 ```
 supply-chain-analytics/
 ├── SupplyChainAnalysis.xlsx
-├── screenshots/
+├── Screenshots/
 │   ├── relationships.png
 │   ├── dashboard.png
 │   └── scenario-manager.png
@@ -59,12 +59,12 @@ supply-chain-analytics/
 
 **Data Model relationships:**
 
-![Relationships](screenshots/relationships.png)
+![Relationships](Screenshots/relationships.png)
 
 **Dashboard:**
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 **Scenario Manager comparison:**
 
-![Scenario Manager](screenshots/scenario-manager.png)
+![Scenario Manager](Screenshots/scenario-manager.png)
